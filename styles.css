@@ -215,18 +215,19 @@ body {
 
 .netflix-badge {
   position: absolute;
-  top: 8px;
-  left: 8px;
-  background: #e50914;
-  color: white;
+  top: 5px;
+  left: 2px;
+  background: #00000000;
+  color: rgb(255, 0, 0);
   width: 24px;
-  height: 24px;
+  height: 26px;
   border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-weight: bold;
-  font-size: 14px;
+  font-weight: regular;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 24px;
   z-index: 2;
 }
 
